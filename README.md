@@ -10,6 +10,7 @@ The hub page that links to every tool published under
 
 | Tool | Live URL | Repo |
 | --- | --- | --- |
+| Flappy Bird | [/flappy-bird/](https://woteq-tools.github.io/flappy-bird/) | [flappy-bird](https://github.com/woteq-tools/flappy-bird) |
 | Tic-Tac-Toe P2P | [/tic-tac-toe-p2p/](https://woteq-tools.github.io/tic-tac-toe-p2p/) | [tic-tac-toe-p2p](https://github.com/woteq-tools/tic-tac-toe-p2p) |
 | PNG to ICO | [/png-to-ico/](https://woteq-tools.github.io/png-to-ico/) | [png-to-ico](https://github.com/woteq-tools/png-to-ico) |
 | PNG to ICO (alt URL) | [/convert-png-to-ico/](https://woteq-tools.github.io/convert-png-to-ico/) | [convert-png-to-ico](https://github.com/woteq-tools/convert-png-to-ico) |
