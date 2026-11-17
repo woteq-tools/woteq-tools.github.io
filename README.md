@@ -19,6 +19,7 @@ The hub page that links to every tool published under
 | Geofence Beep | [/beepme/](https://woteq-tools.github.io/beepme/) | [beepme](https://github.com/woteq-tools/beepme) |
 | Sleep Predictor | [/predict-sleep/](https://woteq-tools.github.io/predict-sleep/) | [predict-sleep](https://github.com/woteq-tools/predict-sleep) |
 | Woteq CodePicker | [/codepicker/](https://woteq-tools.github.io/codepicker/) | [codepicker](https://github.com/woteq-tools/codepicker) |
+| Syntax Highlighter | [/highlight/](https://woteq-tools.github.io/highlight/) | [highlight](https://github.com/woteq-tools/highlight) |
 | Hello World | [/hello-world/](https://woteq-tools.github.io/hello-world/) | [hello-world](https://github.com/woteq-tools/hello-world) |
 
 Source-only projects are listed in the "More projects" section:
